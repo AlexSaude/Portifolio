@@ -1,6 +1,5 @@
 const frases = ["Alex José Fonseca Saúde",
-                 "Sou estudante de Programação",
-                "Residente de Guarapuava - PR"];
+                "Residente de Rio das Ostras"];
 
 const textElement = document.getElementById("text");
 
