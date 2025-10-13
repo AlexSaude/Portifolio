@@ -1,5 +1,4 @@
-const frases = ["Alex José Fonseca Saúde",
-                "Residente de Rio das Ostras"];
+const frases = ["Alex José Fonseca Saúde"];
 
 const textElement = document.getElementById("text");
 
@@ -35,3 +34,4 @@ function apagarText(){
     }
 }
 typeText();
+
